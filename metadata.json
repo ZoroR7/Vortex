@@ -1,0 +1,5 @@
+{
+  "name": "VoxStream AI Reader",
+  "description": "A high-fidelity text-to-speech reader for long documents and URLs, featuring offline capabilities and premium AI voices powered by Gemini.",
+  "requestFramePermissions": []
+}
